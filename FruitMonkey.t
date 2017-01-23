@@ -35,10 +35,10 @@ const BOX_SIZE := 250
 %-----------------------------------------------------------------------------------------------------------
 % Music
 %-----------------------------------------------------------------------------------------------------------
-const music : string := "music/music.wav"
-const titlescreenmusic : string := "music/titlescreenmusic.wav"
-const endmusic : string := "music/endmusic.wav"
-const highscoremusic : string := "music/highscoremusic.wav"
+const music : string := "music/music.mp3"
+const titlescreenmusic : string := "music/titlescreenmusic.mp3"
+const endmusic : string := "music/endmusic.mp3"
+const highscoremusic : string := "music/highscoremusic.mp3"
 
 %-----------------------------------------------------------------------------------------------------------
 % More Variable Declaration
